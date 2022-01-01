@@ -1,9 +1,9 @@
 *******
-#Liudmila Feofilaktova
+#__Liudmila Feofilaktova__
 *******
-##Contacts:
-* [Phone:] (tel:+79226108220)
-* [Email:] (mailto:luma02@mail.ru)
-* [Githab:] (https://github.com/ludmila-pro-v)
-* [Telegram:](https://t.me/Ludmila_A_F)
+##__Contacts:__
+*__Phone:__[+79226108220] (tel:+79226108220)
+*__Email:__[luma02@mail.ru] (mailto:luma02@mail.ru)
+*__Githab:__[ludmila-pro-v] (https://github.com/ludmila-pro-v)
+*__Telegram:__ [@Ludmila_A_F](https://t.me/Ludmila_A_F)
 *******
