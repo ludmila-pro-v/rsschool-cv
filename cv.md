@@ -16,7 +16,7 @@ I am studying front-end development at rs-school
 - CSS
 - JS (Basic)
 
-## __Code example__
+## ____
 ```
 function multiply(a, b){
   return a * b
