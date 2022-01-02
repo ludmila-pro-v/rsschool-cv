@@ -16,7 +16,7 @@ I am studying front-end development at rs-school
 - CSS
 - JS (Basic)
 
-## ____
+## __Code Example__
 ```
 function multiply(a, b){
   return a * b
@@ -31,6 +31,6 @@ My projects:
 - [Pizza](https://ludmila-pro-v.github.io/Pizza/)
 - [Travel](https://ludmila-pro-v.github.io/Travel/)
 
-##__Languages__
+## __Languages__
 - Russian - Native
 - English - Basic
